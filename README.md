@@ -6,6 +6,9 @@ Using ReactJS to build a **Hexadecimal Calculator**. Project is intended to help
 
 ---
 
+![Screen Shot 2023-05-08 at 11 15 33 PM](https://user-images.githubusercontent.com/71999538/236984978-47e05444-2cad-427f-9438-e825732539eb.png)
+
+
 ## Running React App
 Deployed locally via `npm run start`.
 Starts up app at `http://localhost:3000`.
