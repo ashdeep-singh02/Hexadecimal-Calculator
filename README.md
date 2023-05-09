@@ -1,24 +1,14 @@
-## Assignment 4
-### Due Date: 11/28/22 - 5:00pm EST
+## Hexadecimal Calculator
 
-*Assignment deadlines are strictly enforced, please do try to hand in your assignments on time, and I will honor your commitment by grading them and giving feedback in a timely manner. I do understand that sometimes there may be emergencies that we need to attend to. Please do reach out to me as soon as possible if you know you won't be able to make a deadline.*
+## Project Description
 
----
-
-## Assignment Description
-
-In this assignment, you will be using ReactJS to create a **Hexadecimal Calculator**. This assignment is designed to help you practice creating **components** in React, and getting you all to think in terms of organizing your website/app into components and breaking it down into reusable parts.
+Using ReactJS to build a **Hexadecimal Calculator**. Project is intended to help practice creating **components** in React, and thinking in terms of organizing your website/app into components and breaking it down into reusable parts.
 
 ---
 
-## Instructions
-
-The requirements for this assignment will be listed below as always, you are free to use any external libraries for this assignment for styling, state management, utilities, etc... so as long as you meet these requirements.
-
-There is also starter code that has been created for you using the `create-react-app` toolchain, with some small modifications such as organizing the code into separate folders, removing tests, etc.... You should simply just be able to run `npm i` after checking out your assignment 4 repo, and run `npm run start` to start up your app.
-
-You will be developing this app locally, and grading will be done by starting your React app via the `npm run start` command that has already been provided for you, which will start up your app at `http://localhost:3000`.
-Grading percentage will be listed alongside these requirements below.
+## Running React App
+Deployed locally via `npm run start`.
+Starts up app at `http://localhost:3000`.
 
 ## Requirements
 
