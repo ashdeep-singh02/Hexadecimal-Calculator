@@ -74,7 +74,7 @@ AND you should see the input display being updated to this reset value.
 ```text
 AS a USER
 WHEN you interact with the app
-AND you perform an illegal arithmetic operation between to numbers
+AND you perform an illegal arithmetic operation between two numbers
 The calculator SHOULD have your input state evaluate to an error value
 AND you should see this error updated in the input state display
 ```
